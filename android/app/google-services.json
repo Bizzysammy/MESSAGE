@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156910307940",
+    "project_id": "messages-da4bc",
+    "storage_bucket": "messages-da4bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156910307940:android:b6445dfa072905e0596d71",
+        "android_client_info": {
+          "package_name": "com.example.messages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1RpE-GooyyjDQqnFAWV8SrooSIOhUReA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
